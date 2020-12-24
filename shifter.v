@@ -1,5 +1,5 @@
 module shifter #(
-  parameter DELAY = 8;
+  parameter DELAY = 8
 )
 (
   input clk, rstn,
