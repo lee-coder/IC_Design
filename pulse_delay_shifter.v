@@ -1,4 +1,4 @@
-module shifter #(
+module pulse_delay_shifter #(
   parameter DELAY = 8
 )
 (
